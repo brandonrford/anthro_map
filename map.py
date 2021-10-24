@@ -50,7 +50,7 @@ legend_html = """
     ">
     <p><a><img src="https://raw.githubusercontent.com/brandonrford/brandonrford.github.io/main/icons/chicken.png" alt="Small Species Icon" width="25" height="25"></a>&emsp;Small Species</p>
     <p><a><img src="https://raw.githubusercontent.com/brandonrford/brandonrford.github.io/main/icons/pig.png" alt="Pigs Icon" width="25" height="25"></a>&emsp;Pigs</p>
-    <p><a><img src="https://raw.githubusercontent.com/brandonrford/brandonrford.github.io/main/icons/sheep.png" alt="Oves Icon" width="25" height="25"></a>&emsp;Oves</p>
+    <p><a><img src="https://raw.githubusercontent.com/brandonrford/brandonrford.github.io/main/icons/sheep.png" alt="Ovis Icon" width="25" height="25"></a>&emsp;Ovis</p>
     <p><a><img src="https://raw.githubusercontent.com/brandonrford/brandonrford.github.io/main/icons/horse.png" alt="Equines Icon" width="25" height="25"></a>&emsp;Equines</p>
     <p><a><img src="https://raw.githubusercontent.com/brandonrford/brandonrford.github.io/main/icons/reindeer.png" alt="Reindeer Icon" width="25" height="25"></a>&emsp;Reindeer</p>
     <p><a><img src="https://raw.githubusercontent.com/brandonrford/brandonrford.github.io/main/icons/camel.png" alt="Camels Icon" width="25" height="25"></a>&emsp;Camels</p>

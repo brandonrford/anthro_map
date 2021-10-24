@@ -1,4 +1,4 @@
-# anthro_map
+# Source code for my map of the primary domesticated animals of different societies
 
 The python file I used to create my domesticated animal map.
 
