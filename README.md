@@ -8,13 +8,19 @@ This file was created in Google Colaboratory. I've also tested it in a local Pyt
 
 Python Packages Used:
 
-Folium
+Folium (map tool)
 
 > [Folium](https://python-visualization.github.io/folium/)
 >
 > Licensed under an MIT License, copyright [Rob Story](https://github.com/wrobstory)
 
-Pandas
+Branca (legend tool)
+
+> [Branca](https://github.com/python-visualization/branca)
+>
+> Licensed under an MIT License, copyright [Martin Journois](https://github.com/BibMartin)
+
+Pandas (dataset wrangler)
 
 > [Pandas](https://pandas.pydata.org)
 >
